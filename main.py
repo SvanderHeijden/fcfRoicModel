@@ -5,6 +5,11 @@ import requests
 import definitions as df
 from tqdm import tqdm
 
+#
+# This file contails the code to run the fcf/roic model.
+#
+# @author Sjoerd van der Heijden
+#
 
 #------------------------------main function-----------------------------------
 
